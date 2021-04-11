@@ -36,7 +36,7 @@ function App() {
 		if (pages.includes(redirectUrl))
 			redirect = <Redirect to={urls[redirectUrl]} />
 		else {
-			;<p>Couldn't Find Page: {redirectUrl}</p>
+			<p>Couldn't Find Page: {redirectUrl}</p>
 		}
 	}
 
