@@ -48,14 +48,11 @@ function App() {
 				<Link to="/blog/new">New Blog</Link>
 				<Link to="/contact">Contact</Link>
 			</div>
-
-			<Switch>
 				<Route path="/" component={Home} exact />
-				<Route path="/blog/new" component={NewBlogPost} />
+				<Route path="/blog/new" exact component={NewBlogPost} />
 				<Route path="/blog" component={Blog} />
 				<Route path="/contact" component={Contact} />
 				{redirect}
-			</Switch>
 
 			<p id="transcirpt">Transcript: {transcript}</p>
 			<button onClick={SpeechRecognition.startListening}>Start</button>
