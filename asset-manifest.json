@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/React-Speech-Recognition/static/css/main.b2922f6d.chunk.css",
-    "main.js": "/React-Speech-Recognition/static/js/main.1176b46d.chunk.js",
-    "main.js.map": "/React-Speech-Recognition/static/js/main.1176b46d.chunk.js.map",
+    "main.js": "/React-Speech-Recognition/static/js/main.ed2f4fbc.chunk.js",
+    "main.js.map": "/React-Speech-Recognition/static/js/main.ed2f4fbc.chunk.js.map",
     "runtime-main.js": "/React-Speech-Recognition/static/js/runtime-main.03bf715f.js",
     "runtime-main.js.map": "/React-Speech-Recognition/static/js/runtime-main.03bf715f.js.map",
-    "static/js/2.ee789a5c.chunk.js": "/React-Speech-Recognition/static/js/2.ee789a5c.chunk.js",
-    "static/js/2.ee789a5c.chunk.js.map": "/React-Speech-Recognition/static/js/2.ee789a5c.chunk.js.map",
+    "static/js/2.5c396a1c.chunk.js": "/React-Speech-Recognition/static/js/2.5c396a1c.chunk.js",
+    "static/js/2.5c396a1c.chunk.js.map": "/React-Speech-Recognition/static/js/2.5c396a1c.chunk.js.map",
     "static/js/3.ea3a182c.chunk.js": "/React-Speech-Recognition/static/js/3.ea3a182c.chunk.js",
     "static/js/3.ea3a182c.chunk.js.map": "/React-Speech-Recognition/static/js/3.ea3a182c.chunk.js.map",
     "index.html": "/React-Speech-Recognition/index.html",
     "static/css/main.b2922f6d.chunk.css.map": "/React-Speech-Recognition/static/css/main.b2922f6d.chunk.css.map",
-    "static/js/2.ee789a5c.chunk.js.LICENSE.txt": "/React-Speech-Recognition/static/js/2.ee789a5c.chunk.js.LICENSE.txt"
+    "static/js/2.5c396a1c.chunk.js.LICENSE.txt": "/React-Speech-Recognition/static/js/2.5c396a1c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.03bf715f.js",
-    "static/js/2.ee789a5c.chunk.js",
+    "static/js/2.5c396a1c.chunk.js",
     "static/css/main.b2922f6d.chunk.css",
-    "static/js/main.1176b46d.chunk.js"
+    "static/js/main.ed2f4fbc.chunk.js"
   ]
 }
