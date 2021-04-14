@@ -1,5 +1,5 @@
 import { useState } from "react"
-import { Route, Link, Redirect, Switch } from "react-router-dom"
+import { Route, Link, Redirect } from "react-router-dom"
 import SpeechRecognition, {
 	useSpeechRecognition,
 } from "react-speech-recognition"
@@ -22,10 +22,10 @@ function App() {
 
 	const pages = ["home", "blog", "new blog", "contact"]
 	const urls = {
-		homw: "/",
-		blog: "/blog",
+		"home": "/",
+		"blog": "/blog",
 		"new blog post": "/blog/new",
-		contact: "/contact",
+		"contact": "/contact",
 	}
 
 	if (!SpeechRecognition.browserSupportsSpeechRecognition) return null
